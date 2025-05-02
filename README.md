@@ -10,6 +10,15 @@ This project analyzes a dataset of global YouTube statistics from 2023, focusing
 
 ---
 
+## 📊 Access the Interactive Dashboard
+
+[![Dashboard View](youtube_dashboard.png)](https://lookerstudio.google.com/s/rO51oyUHq1g)
+
+🔗 Click on the image above or access it directly via the link: 
+[https://lookerstudio.google.com/s/rO51oyUHq1g](https://lookerstudio.google.com/s/rO51oyUHq1g)
+
+---
+
 ## 📁 Data Source
 
 **Dataset:** [Global YouTube Statistics 2023 – Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023/data)  
