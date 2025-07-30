@@ -59,7 +59,7 @@ This project analyzes a dataset of global YouTube statistics from 2023, focusing
 - Avg Views/Video  
 - Avg Monthly Earnings  
 
-**📊 Charts an Insights:**
+**📊 Charts and Insights:**
 - **Top 10 Channels by Subscribers:**
   - T-Series leads significantly with 245 million subscribers.
   - YouTube Movies and MrBeast compete closely for the second position.
